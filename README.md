@@ -1,5 +1,5 @@
 # ISA-ACTION-Template
-This repository contains a Jupyter Notebook, which serves as a possible template for the creation of ISA-Tab files for multi-omics (meta)data.
+This repository contains a [Jupyter Notebook](https://github.com/Xomics/ISA-ACTION-Template/blob/main/ISA_ACTION-Template.ipynb), which serves as a possible template for the creation of ISA-Tab files for multi-omics (meta)data.
 The ISA-Tab files that are produced with this Notebook can be found in the `isa_templates` folder.
 
 ### Fake IDs
