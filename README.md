@@ -6,4 +6,4 @@ The ISA-Tab files that are produced with this Notebook can be found in the `isa_
 The Subject IDs that can be found in the files here are not real, with respect to privacy
 
 ### Docker environment
-The Jupyter Notebook was made inside a [Dockernized environment](https://github.com/Xomics/Isatools_environment), containing all packages (isa-api and more) that are necessary to create ISA-Tab files 
+The Jupyter Notebook was made inside a [Dockernized environment](https://github.com/Xomics/Isatools_environment), containing all packages (isa-api and more) that are necessary to run this Jupyter notebook
