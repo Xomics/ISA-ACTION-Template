@@ -4,7 +4,7 @@ The ISA-Tab files that are produced with this Notebook can be found in the `isa_
 
 ## Docker environment (**Important**)
 
-In order to run this notebook, a specific set of dependencies needs to be installed. For this purpose, we create a [Dockernized environment](https://github.com/Xomics/Isatools_environment), containing all packages (isa-api and more) that are necessary to run this Jupyter notebook.
+In order to run this notebook, a specific set of dependencies needs to be installed. For this purpose, we create a [Dockerized environment](https://github.com/Xomics/Isatools_environment), containing all packages (isa-api and more) that are necessary to run this Jupyter notebook.
 
 ## Run the Notebook without Docker
 
