@@ -13,7 +13,7 @@ All dependencies can be installed using the `isa_env.yml` environment file in th
 conda env create isa_env -f isa_env.yml
 ```
 
-## Fake IDs
+## Synthetic IDs
 The Subject IDs that can be found in the files here are not real, with respect to privacy
 
 
