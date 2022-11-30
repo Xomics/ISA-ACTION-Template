@@ -1,21 +1,201 @@
-Source Name	Characteristics[organism]	Term Source REF	Term Accession Number	Characteristics[family ID]	Protocol REF	Parameter Value[anatomical entity]	Sample Name	Characteristics[organism part]	Term Source REF	Term Accession Number	Characteristics[sample type]	Term Source REF	Term Accession Number
-XOP1	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF1	sample collection	buccal mucosa	buccal_mucosa_XOP1						
-XOP1	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF1	sample collection	urine	urine_XOP1	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
-XOP10	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF10	sample collection	urine	urine_XOP10	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
-XOP10	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF10	sample collection	buccal mucosa	buccal_mucosa_XOP10						
-XOP2	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF2	sample collection	buccal mucosa	buccal_mucosa_XOP2						
-XOP2	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF2	sample collection	urine	urine_XOP2	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
-XOP3	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF3	sample collection	buccal mucosa	buccal_mucosa_XOP3						
-XOP3	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF3	sample collection	urine	urine_XOP3	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
-XOP4	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF4	sample collection	buccal mucosa	buccal_mucosa_XOP4						
-XOP4	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF4	sample collection	urine	urine_XOP4	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
-XOP5	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF5	sample collection	urine	urine_XOP5	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
-XOP5	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF5	sample collection	buccal mucosa	buccal_mucosa_XOP5						
-XOP6	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF6	sample collection	urine	urine_XOP6	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
-XOP6	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF6	sample collection	buccal mucosa	buccal_mucosa_XOP6						
-XOP7	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF7	sample collection	urine	urine_XOP7	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
-XOP7	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF7	sample collection	buccal mucosa	buccal_mucosa_XOP7						
-XOP8	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF8	sample collection	buccal mucosa	buccal_mucosa_XOP8						
-XOP8	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF8	sample collection	urine	urine_XOP8	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
-XOP9	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF9	sample collection	urine	urine_XOP9	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
-XOP9	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF9	sample collection	buccal mucosa	buccal_mucosa_XOP9						
+Source Name	Characteristics[organism]	Term Source REF	Term Accession Number	Characteristics[family ID]	Protocol REF	Parameter Value[anatomical entity]	Sample Name	Characteristics[organism part]	Term Source REF	Term Accession Number	Characteristics[sample type]	Term Source REF	Term Accession Number
+XOP1	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF1	sample collection	buccal mucosa	buccal_mucosa_XOP1						
+XOP1	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF1	sample collection	urine	urine_XOP1	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP10	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF10	sample collection	buccal mucosa	buccal_mucosa_XOP10						
+XOP10	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF10	sample collection	urine	urine_XOP10	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP100	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF100	sample collection	urine	urine_XOP100	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP100	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF100	sample collection	buccal mucosa	buccal_mucosa_XOP100						
+XOP11	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF11	sample collection	buccal mucosa	buccal_mucosa_XOP11						
+XOP11	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF11	sample collection	urine	urine_XOP11	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP12	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF12	sample collection	buccal mucosa	buccal_mucosa_XOP12						
+XOP12	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF12	sample collection	urine	urine_XOP12	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP13	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF13	sample collection	buccal mucosa	buccal_mucosa_XOP13						
+XOP13	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF13	sample collection	urine	urine_XOP13	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP14	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF14	sample collection	buccal mucosa	buccal_mucosa_XOP14						
+XOP14	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF14	sample collection	urine	urine_XOP14	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP15	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF15	sample collection	buccal mucosa	buccal_mucosa_XOP15						
+XOP15	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF15	sample collection	urine	urine_XOP15	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP16	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF16	sample collection	buccal mucosa	buccal_mucosa_XOP16						
+XOP16	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF16	sample collection	urine	urine_XOP16	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP17	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF17	sample collection	buccal mucosa	buccal_mucosa_XOP17						
+XOP17	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF17	sample collection	urine	urine_XOP17	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP18	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF18	sample collection	urine	urine_XOP18	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP18	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF18	sample collection	buccal mucosa	buccal_mucosa_XOP18						
+XOP19	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF19	sample collection	buccal mucosa	buccal_mucosa_XOP19						
+XOP19	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF19	sample collection	urine	urine_XOP19	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP2	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF2	sample collection	urine	urine_XOP2	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP2	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF2	sample collection	buccal mucosa	buccal_mucosa_XOP2						
+XOP20	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF20	sample collection	urine	urine_XOP20	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP20	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF20	sample collection	buccal mucosa	buccal_mucosa_XOP20						
+XOP21	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF21	sample collection	urine	urine_XOP21	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP21	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF21	sample collection	buccal mucosa	buccal_mucosa_XOP21						
+XOP22	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF22	sample collection	urine	urine_XOP22	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP22	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF22	sample collection	buccal mucosa	buccal_mucosa_XOP22						
+XOP23	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF23	sample collection	urine	urine_XOP23	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP23	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF23	sample collection	buccal mucosa	buccal_mucosa_XOP23						
+XOP24	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF24	sample collection	urine	urine_XOP24	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP24	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF24	sample collection	buccal mucosa	buccal_mucosa_XOP24						
+XOP25	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF25	sample collection	buccal mucosa	buccal_mucosa_XOP25						
+XOP25	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF25	sample collection	urine	urine_XOP25	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP26	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF26	sample collection	buccal mucosa	buccal_mucosa_XOP26						
+XOP26	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF26	sample collection	urine	urine_XOP26	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP27	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF27	sample collection	buccal mucosa	buccal_mucosa_XOP27						
+XOP27	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF27	sample collection	urine	urine_XOP27	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP28	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF28	sample collection	urine	urine_XOP28	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP28	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF28	sample collection	buccal mucosa	buccal_mucosa_XOP28						
+XOP29	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF29	sample collection	urine	urine_XOP29	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP29	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF29	sample collection	buccal mucosa	buccal_mucosa_XOP29						
+XOP3	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF3	sample collection	urine	urine_XOP3	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP3	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF3	sample collection	buccal mucosa	buccal_mucosa_XOP3						
+XOP30	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF30	sample collection	urine	urine_XOP30	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP30	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF30	sample collection	buccal mucosa	buccal_mucosa_XOP30						
+XOP31	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF31	sample collection	urine	urine_XOP31	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP31	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF31	sample collection	buccal mucosa	buccal_mucosa_XOP31						
+XOP32	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF32	sample collection	buccal mucosa	buccal_mucosa_XOP32						
+XOP32	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF32	sample collection	urine	urine_XOP32	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP33	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF33	sample collection	urine	urine_XOP33	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP33	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF33	sample collection	buccal mucosa	buccal_mucosa_XOP33						
+XOP34	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF34	sample collection	buccal mucosa	buccal_mucosa_XOP34						
+XOP34	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF34	sample collection	urine	urine_XOP34	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP35	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF35	sample collection	buccal mucosa	buccal_mucosa_XOP35						
+XOP35	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF35	sample collection	urine	urine_XOP35	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP36	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF36	sample collection	urine	urine_XOP36	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP36	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF36	sample collection	buccal mucosa	buccal_mucosa_XOP36						
+XOP37	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF37	sample collection	urine	urine_XOP37	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP37	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF37	sample collection	buccal mucosa	buccal_mucosa_XOP37						
+XOP38	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF38	sample collection	buccal mucosa	buccal_mucosa_XOP38						
+XOP38	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF38	sample collection	urine	urine_XOP38	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP39	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF39	sample collection	buccal mucosa	buccal_mucosa_XOP39						
+XOP39	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF39	sample collection	urine	urine_XOP39	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP4	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF4	sample collection	buccal mucosa	buccal_mucosa_XOP4						
+XOP4	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF4	sample collection	urine	urine_XOP4	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP40	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF40	sample collection	buccal mucosa	buccal_mucosa_XOP40						
+XOP40	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF40	sample collection	urine	urine_XOP40	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP41	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF41	sample collection	buccal mucosa	buccal_mucosa_XOP41						
+XOP41	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF41	sample collection	urine	urine_XOP41	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP42	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF42	sample collection	buccal mucosa	buccal_mucosa_XOP42						
+XOP42	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF42	sample collection	urine	urine_XOP42	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP43	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF43	sample collection	urine	urine_XOP43	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP43	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF43	sample collection	buccal mucosa	buccal_mucosa_XOP43						
+XOP44	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF44	sample collection	urine	urine_XOP44	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP44	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF44	sample collection	buccal mucosa	buccal_mucosa_XOP44						
+XOP45	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF45	sample collection	buccal mucosa	buccal_mucosa_XOP45						
+XOP45	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF45	sample collection	urine	urine_XOP45	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP46	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF46	sample collection	buccal mucosa	buccal_mucosa_XOP46						
+XOP46	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF46	sample collection	urine	urine_XOP46	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP47	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF47	sample collection	buccal mucosa	buccal_mucosa_XOP47						
+XOP47	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF47	sample collection	urine	urine_XOP47	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP48	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF48	sample collection	buccal mucosa	buccal_mucosa_XOP48						
+XOP48	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF48	sample collection	urine	urine_XOP48	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP49	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF49	sample collection	urine	urine_XOP49	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP49	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF49	sample collection	buccal mucosa	buccal_mucosa_XOP49						
+XOP5	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF5	sample collection	urine	urine_XOP5	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP5	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF5	sample collection	buccal mucosa	buccal_mucosa_XOP5						
+XOP50	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF50	sample collection	urine	urine_XOP50	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP50	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF50	sample collection	buccal mucosa	buccal_mucosa_XOP50						
+XOP51	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF51	sample collection	urine	urine_XOP51	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP51	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF51	sample collection	buccal mucosa	buccal_mucosa_XOP51						
+XOP52	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF52	sample collection	buccal mucosa	buccal_mucosa_XOP52						
+XOP52	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF52	sample collection	urine	urine_XOP52	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP53	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF53	sample collection	urine	urine_XOP53	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP53	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF53	sample collection	buccal mucosa	buccal_mucosa_XOP53						
+XOP54	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF54	sample collection	urine	urine_XOP54	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP54	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF54	sample collection	buccal mucosa	buccal_mucosa_XOP54						
+XOP55	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF55	sample collection	buccal mucosa	buccal_mucosa_XOP55						
+XOP55	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF55	sample collection	urine	urine_XOP55	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP56	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF56	sample collection	buccal mucosa	buccal_mucosa_XOP56						
+XOP56	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF56	sample collection	urine	urine_XOP56	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP57	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF57	sample collection	urine	urine_XOP57	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP57	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF57	sample collection	buccal mucosa	buccal_mucosa_XOP57						
+XOP58	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF58	sample collection	buccal mucosa	buccal_mucosa_XOP58						
+XOP58	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF58	sample collection	urine	urine_XOP58	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP59	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF59	sample collection	buccal mucosa	buccal_mucosa_XOP59						
+XOP59	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF59	sample collection	urine	urine_XOP59	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP6	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF6	sample collection	urine	urine_XOP6	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP6	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF6	sample collection	buccal mucosa	buccal_mucosa_XOP6						
+XOP60	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF60	sample collection	urine	urine_XOP60	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP60	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF60	sample collection	buccal mucosa	buccal_mucosa_XOP60						
+XOP61	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF61	sample collection	buccal mucosa	buccal_mucosa_XOP61						
+XOP61	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF61	sample collection	urine	urine_XOP61	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP62	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF62	sample collection	urine	urine_XOP62	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP62	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF62	sample collection	buccal mucosa	buccal_mucosa_XOP62						
+XOP63	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF63	sample collection	urine	urine_XOP63	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP63	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF63	sample collection	buccal mucosa	buccal_mucosa_XOP63						
+XOP64	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF64	sample collection	urine	urine_XOP64	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP64	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF64	sample collection	buccal mucosa	buccal_mucosa_XOP64						
+XOP65	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF65	sample collection	urine	urine_XOP65	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP65	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF65	sample collection	buccal mucosa	buccal_mucosa_XOP65						
+XOP66	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF66	sample collection	urine	urine_XOP66	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP66	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF66	sample collection	buccal mucosa	buccal_mucosa_XOP66						
+XOP67	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF67	sample collection	buccal mucosa	buccal_mucosa_XOP67						
+XOP67	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF67	sample collection	urine	urine_XOP67	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP68	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF68	sample collection	urine	urine_XOP68	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP68	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF68	sample collection	buccal mucosa	buccal_mucosa_XOP68						
+XOP69	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF69	sample collection	buccal mucosa	buccal_mucosa_XOP69						
+XOP69	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF69	sample collection	urine	urine_XOP69	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP7	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF7	sample collection	urine	urine_XOP7	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP7	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF7	sample collection	buccal mucosa	buccal_mucosa_XOP7						
+XOP70	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF70	sample collection	urine	urine_XOP70	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP70	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF70	sample collection	buccal mucosa	buccal_mucosa_XOP70						
+XOP71	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF71	sample collection	buccal mucosa	buccal_mucosa_XOP71						
+XOP71	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF71	sample collection	urine	urine_XOP71	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP72	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF72	sample collection	urine	urine_XOP72	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP72	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF72	sample collection	buccal mucosa	buccal_mucosa_XOP72						
+XOP73	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF73	sample collection	buccal mucosa	buccal_mucosa_XOP73						
+XOP73	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF73	sample collection	urine	urine_XOP73	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP74	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF74	sample collection	urine	urine_XOP74	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP74	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF74	sample collection	buccal mucosa	buccal_mucosa_XOP74						
+XOP75	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF75	sample collection	buccal mucosa	buccal_mucosa_XOP75						
+XOP75	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF75	sample collection	urine	urine_XOP75	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP76	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF76	sample collection	urine	urine_XOP76	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP76	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF76	sample collection	buccal mucosa	buccal_mucosa_XOP76						
+XOP77	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF77	sample collection	urine	urine_XOP77	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP77	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF77	sample collection	buccal mucosa	buccal_mucosa_XOP77						
+XOP78	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF78	sample collection	urine	urine_XOP78	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP78	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF78	sample collection	buccal mucosa	buccal_mucosa_XOP78						
+XOP79	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF79	sample collection	buccal mucosa	buccal_mucosa_XOP79						
+XOP79	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF79	sample collection	urine	urine_XOP79	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP8	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF8	sample collection	buccal mucosa	buccal_mucosa_XOP8						
+XOP8	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF8	sample collection	urine	urine_XOP8	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP80	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF80	sample collection	buccal mucosa	buccal_mucosa_XOP80						
+XOP80	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF80	sample collection	urine	urine_XOP80	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP81	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF81	sample collection	buccal mucosa	buccal_mucosa_XOP81						
+XOP81	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF81	sample collection	urine	urine_XOP81	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP82	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF82	sample collection	urine	urine_XOP82	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP82	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF82	sample collection	buccal mucosa	buccal_mucosa_XOP82						
+XOP83	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF83	sample collection	buccal mucosa	buccal_mucosa_XOP83						
+XOP83	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF83	sample collection	urine	urine_XOP83	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP84	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF84	sample collection	buccal mucosa	buccal_mucosa_XOP84						
+XOP84	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF84	sample collection	urine	urine_XOP84	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP85	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF85	sample collection	urine	urine_XOP85	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP85	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF85	sample collection	buccal mucosa	buccal_mucosa_XOP85						
+XOP86	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF86	sample collection	urine	urine_XOP86	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP86	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF86	sample collection	buccal mucosa	buccal_mucosa_XOP86						
+XOP87	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF87	sample collection	buccal mucosa	buccal_mucosa_XOP87						
+XOP87	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF87	sample collection	urine	urine_XOP87	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP88	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF88	sample collection	urine	urine_XOP88	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP88	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF88	sample collection	buccal mucosa	buccal_mucosa_XOP88						
+XOP89	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF89	sample collection	buccal mucosa	buccal_mucosa_XOP89						
+XOP89	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF89	sample collection	urine	urine_XOP89	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP9	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF9	sample collection	urine	urine_XOP9	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP9	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF9	sample collection	buccal mucosa	buccal_mucosa_XOP9						
+XOP90	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF90	sample collection	urine	urine_XOP90	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP90	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF90	sample collection	buccal mucosa	buccal_mucosa_XOP90						
+XOP91	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF91	sample collection	buccal mucosa	buccal_mucosa_XOP91						
+XOP91	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF91	sample collection	urine	urine_XOP91	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP92	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF92	sample collection	buccal mucosa	buccal_mucosa_XOP92						
+XOP92	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF92	sample collection	urine	urine_XOP92	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP93	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF93	sample collection	urine	urine_XOP93	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP93	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF93	sample collection	buccal mucosa	buccal_mucosa_XOP93						
+XOP94	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF94	sample collection	buccal mucosa	buccal_mucosa_XOP94						
+XOP94	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF94	sample collection	urine	urine_XOP94	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP95	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF95	sample collection	buccal mucosa	buccal_mucosa_XOP95						
+XOP95	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF95	sample collection	urine	urine_XOP95	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP96	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF96	sample collection	buccal mucosa	buccal_mucosa_XOP96						
+XOP96	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF96	sample collection	urine	urine_XOP96	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP97	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF97	sample collection	buccal mucosa	buccal_mucosa_XOP97						
+XOP97	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF97	sample collection	urine	urine_XOP97	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP98	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF98	sample collection	urine	urine_XOP98	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP98	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF98	sample collection	buccal mucosa	buccal_mucosa_XOP98						
+XOP99	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF99	sample collection	urine	urine_XOP99	urine	UBERON	http://purl.obolibrary.org/obo/UBERON_0001088	experimental sample	CHMO	http://purl.obolibrary.org/obo/CHMO_0002746
+XOP99	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	XOF99	sample collection	buccal mucosa	buccal_mucosa_XOP99						
